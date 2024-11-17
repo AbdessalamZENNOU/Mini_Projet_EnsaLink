@@ -63,7 +63,9 @@ To set up and run the project locally:
 **Run the Application**:
 
 **Start the backend**:
-npm start
+```bash
+  npm start
 **Start the frontend**:
+```bash
 cd backend && npm start
 Open your browser and navigate to http://localhost:3000.
