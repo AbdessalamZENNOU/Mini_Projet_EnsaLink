@@ -126,8 +126,3 @@ npm start
 5. **Access the Application**
 - Frontend: `http://localhost:3000`
 - Backend API: `http://localhost:5000`
-
-## 👥 Authors
-
-- **Abdessalam ZENNOU**  - ([https://github.com/yourusername](https://github.com/AbdessalamZENNOU))
-
