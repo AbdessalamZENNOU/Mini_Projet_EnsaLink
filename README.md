@@ -48,7 +48,9 @@ To set up and run the project locally:
    ```bash
    git clone https://github.com/your-repo/ensa-link.git
    cd ensa-link
+   
 2. **Install Dependencies**:
+   ```bash
     npm install
     cd frontend && npm install
 **Set Up Environment Variables**:
