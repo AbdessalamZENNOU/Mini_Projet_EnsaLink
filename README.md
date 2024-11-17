@@ -4,12 +4,11 @@
 
 ![Ensa Link Logo](https://your-logo-url.png)
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A comprehensive social networking platform for ENSAS (National School of Applied Sciences of Safi) club members.
 
-[Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Installation](#installation) • [Contributing](#contributing)
+[Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Installation](#installation)
 
 </div>
 
