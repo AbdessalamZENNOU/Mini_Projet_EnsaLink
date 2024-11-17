@@ -2,8 +2,7 @@
 
 <div align="center">
 
-![Ensa Link Logo](https://your-logo-url.png)
-
+![Ensa Link Logo](https://raw.githubusercontent.com/AbdessalamZENNOU/Mini_Projet_EnsaLink/main/Frontend/src/assets/SocialEcho.png)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A comprehensive social networking platform for ENSAS (National School of Applied Sciences of Safi) club members.
