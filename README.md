@@ -48,3 +48,20 @@ To set up and run the project locally:
    ```bash
    git clone https://github.com/your-repo/ensa-link.git
    cd ensa-link
+2. **Install Dependencies**:
+    npm install
+    cd frontend && npm install
+**Set Up Environment Variables**:
+  Create a .env file in the root directory with the following details:
+
+    MONGO_URI=<Your MongoDB URI>
+    JWT_SECRET=<Your JWT Secret>
+    EMAIL_USER=<Your Email Address>
+    EMAIL_PASSWORD=<Your Email Password>
+**Run the Application**:
+
+**Start the backend**:
+npm start
+**Start the frontend**:
+cd backend && npm start
+Open your browser and navigate to http://localhost:3000.
